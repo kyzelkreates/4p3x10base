@@ -1,0 +1,180 @@
+⛔ STRICT BASE44 / MANUS / SUPER AGENT ENFORCEMENT RULES — READ FIRST
+
+MODE:
+FIX-ONLY BUILD COMPILER MODE
+4P3X VERSE™ VERSION 3.0 FUTURE BASE STRUCTURES LANDING PAGE BUILD + POLISH ONLY
+NO FULL UNRELATED REBUILD
+NO DESTRUCTIVE REFACTOR
+NO FEATURE DRIFT
+NO DUPLICATE ROUTES
+NO DUPLICATE COMPONENT SYSTEMS
+NO AUTH GATE
+NO BREAKING EXISTING FILE STRUCTURE
+NO FALSE COMPLETION CLAIMS
+NO HARD-CODED SECRETS
+NO BACKEND-ONLY KEYS IN FRONTEND
+NO CLAIMING FUTURE BASES ARE FULLY LIVE PRODUCTS UNLESS THEY ARE ACTUALLY BUILT
+VALIDATE BEFORE AND AFTER EDITING
+STOP IF REQUIRED FILES ARE MISSING OR ARCHITECTURE CONFLICTS
+
+PROJECT:
+4P3X Verse™ Version 3.0 — Future Base Structures
+Powered by 4P3X Intelligent AI™ — Created by Kyzel Kreates™
+
+CURRENT STATUS:
+A starter React/Vite landing page pack has been provided with:
+- index.html
+- package.json
+- src/main.jsx
+- src/styles.css
+- src/data/futureBases.js
+- docs/PROJECT_SPEC.md
+- docs/PORTFOLIO_WORDING.md
+- docs/V3_10_BASE_ROADMAP.md
+- base44/BASE44_ASSEMBLY_INSTRUCTIONS.md
+
+MISSION:
+Finish and polish this as a premium investor-ready, portfolio-ready landing page explaining that 4P3X Verse™ Version 3.0 is the future-facing expansion of the 4P3X Verse™ into 10 reusable modular base structures.
+
+This is not just 10 apps.
+This is 10 reusable future base systems that can each become many products.
+
+PRIMARY MESSAGE TO PRESERVE:
+4P3X Verse™ Version 3.0 is the next evolution of the 4P3X modular architecture: 10 future-ready base structures designed to become hundreds of sector-ready AI-powered products.
+
+BRANDING TO PRESERVE EVERYWHERE RELEVANT:
+4P3X Verse™ Version 3.0
+Powered by 4P3X Intelligent AI™ — Created by Kyzel Kreates™
+
+THE 10 BASES THAT MUST REMAIN:
+1. 4P3X Command Base™
+2. 4P3X Mobile PWA Base™
+3. 4P3X AI Companion Base™
+4. 4P3X Compliance & Evidence Base™
+5. 4P3X Learning & Academy Base™
+6. 4P3X Welfare & Response Base™
+7. 4P3X Reputation & Monitoring Base™
+8. 4P3X Route & Safety Base™
+9. 4P3X Business Intelligence Base™
+10. 4P3X Multi-Sector Portal Base™
+
+EXACT SCOPE:
+You may improve the existing page and add supporting sections/components only if needed.
+Do not rebuild the whole app from scratch.
+Do not remove the config-driven content structure.
+Do not create a different product.
+Do not change the meaning of Version 3.0.
+
+ALLOWED FILES TO TOUCH:
+- src/main.jsx
+- src/styles.css
+- src/data/futureBases.js only if content cleanup is needed
+- package.json only if absolutely required for build compatibility
+- README/docs only if you add useful final instructions
+
+DO NOT TOUCH / DO NOT ADD:
+- Do not add backend secrets.
+- Do not add Supabase service role keys.
+- Do not add OpenAI/Groq/Stripe secret keys.
+- Do not add auth gates.
+- Do not add payment systems.
+- Do not add unrelated dashboards.
+- Do not add fake live API integrations.
+- Do not claim the 10 future bases are all finished live products.
+
+UI / UX REQUIREMENTS:
+- Futuristic premium style.
+- Black background.
+- Metallic gold, metallic silver, green, purple and complementary futuristic accents.
+- Mobile responsive from 320px upward.
+- Tablet and desktop aligned.
+- No horizontal overflow.
+- Cards must align neatly.
+- Text must be readable.
+- Hero must clearly explain Version 3.0.
+- Page must start at the top on load.
+- Clear CTAs to explore bases and investor explanation.
+- Footer must include branding line.
+
+CONTENT REQUIREMENTS:
+Include sections for:
+1. Hero: “4P3X Verse™ Version 3.0 — 10 Future-Ready Base Structures”
+2. What Version 3.0 means
+3. Why the 5 previous bases matter
+4. The 10 future base structures
+5. What each base can become
+6. AI agents per base
+7. Demo/live backend-ready pathway
+8. Investor / funder / partner explanation
+9. Roadmap from showcase to reusable product factory
+10. Final positioning statement
+
+SAFE WORDING REQUIREMENT:
+Use this style:
+“These Version 3.0 bases are future-ready product foundations and roadmap structures. They are designed to be built out into working demos and then upgraded into real live systems by switching demo mode off and connecting a backend.”
+
+Do NOT say:
+“These are all complete live products” unless that is actually true after implementation.
+
+STATE / DATA REQUIREMENTS:
+- Keep the 10-base data in src/data/futureBases.js as the content source of truth.
+- Do not duplicate large base content hardcoded in multiple files.
+- If adding filters/tabs, derive from the same config.
+- Keep demo/live wording separate from claims of completion.
+
+4P3X API CONFIG GUARD™:
+- No backend-only secrets in frontend/public code.
+- Do not guess, invent, expose, log, export or hardcode API keys.
+- Block these from frontend/public exports: SUPABASE_SERVICE_ROLE_KEY, OPENAI_API_KEY, GROQ_API_KEY, STRIPE_SECRET_KEY, DATABASE_URL, JWT_SECRET, PRIVATE_KEY, WEBHOOK_SECRET, admin tokens and backend-only secrets.
+- If API/backend sections are shown, present them as future backend-ready configuration only.
+
+VALIDATION GATES BEFORE EDITING:
+1. Confirm package structure.
+2. Confirm src/main.jsx exists.
+3. Confirm src/data/futureBases.js exists.
+4. Confirm all 10 bases exist.
+5. Confirm no unrelated app rebuild is needed.
+
+VALIDATION GATES AFTER EDITING:
+1. npm install completes.
+2. npm run build passes.
+3. Landing page loads.
+4. Page starts at top.
+5. All 10 bases display.
+6. Anchor buttons work.
+7. Mobile 320px, 375px, 414px, 768px, 1024px, 1440px layouts checked.
+8. No horizontal overflow.
+9. Cards align correctly.
+10. No auth popup appears.
+11. Branding line appears.
+12. No false live-product claims.
+13. No hardcoded secrets.
+
+ACCEPTANCE TESTS:
+- A non-technical investor can understand what Version 3.0 is.
+- A technical reviewer can understand the reusable base structure strategy.
+- A partner can understand what each base could become.
+- A funder can understand the future potential without being misled.
+- The page feels premium, futuristic, clean and mobile-ready.
+
+ROLLBACK GUIDANCE:
+If layout changes break the page, revert only the broken file and preserve src/data/futureBases.js. Do not rewrite the whole app.
+
+STOP CONDITIONS:
+Stop and report if:
+- required files are missing,
+- build system is incompatible,
+- the page cannot compile,
+- a requested change would require false claims,
+- secrets are discovered in frontend files,
+- an unrelated full rebuild would be required.
+
+FINAL OUTPUT REQUIRED FROM BASE44:
+After completion, provide:
+1. summary of what changed,
+2. files edited,
+3. validation results,
+4. live URL if deployed,
+5. remaining recommended next run if any.
+
+Directive 1: Adapt the skill set to the task. Include full folder structure, program code, logic code, transition code, UI logic, UI code, and HTML/JSX where required. Preserve SSOT, prevent feature creep, and protect working systems.

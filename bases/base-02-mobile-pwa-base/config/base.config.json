@@ -1,0 +1,10 @@
+{
+  "id": "02",
+  "name": "4P3X Mobile PWA Base\u2122",
+  "status": "Version 3.0 future-ready base structure / roadmap foundation",
+  "purpose": "installable mobile field and user PWAs",
+  "brandingLine": "Powered by 4P3X Intelligent AI\u2122 \u2014 Created by Kyzel Kreates\u2122",
+  "demoLiveRule": "Demo mode shows the base concept. Live mode runs the product after backend/auth/data/API configuration.",
+  "apiGuard": "No backend-only secrets in frontend/public code. Use 4P3X API Config Guard\u2122.",
+  "ssotRule": "Keep base-specific content in config. Do not duplicate state or hardcode sector logic across components."
+}
