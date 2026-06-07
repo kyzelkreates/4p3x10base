@@ -2,18 +2,20 @@
   "name": "4p3x-verse-v3-future-bases",
   "version": "3.0.0",
   "private": true,
-  "description": "4P3X Verse Version 3.0 future base structures showcase starter pack.",
+  "description": "4P3X Verse Version 3.0 future base structures showcase.",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "lucide-react": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "react-router-dom": "^7.17.0",
-    "vite": "latest"
+    "lucide-react": "1.17.0",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "react-router-dom": "7.17.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "6.0.2",
+    "vite": "8.0.16"
   }
 }
