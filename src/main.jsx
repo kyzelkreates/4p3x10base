@@ -8,6 +8,7 @@ import {
 import './styles.css';
 import { futureBases, ecosystemStats, roadmapPhases } from './data/futureBases.js';
 import StickyNav from './components/StickyNav.jsx';
+import BasePage from './pages/BasePage.jsx';
 import DemoLivePage from './pages/DemoLivePage.jsx';
 import AgentMapPage from './pages/AgentMapPage.jsx';
 import ProductsPage from './pages/ProductsPage.jsx';
